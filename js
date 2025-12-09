@@ -1,0 +1,1 @@
+base: "/ns-glow-store/",
